@@ -1,0 +1,31 @@
+body {
+    background-color: #ec7589;
+    transition: background-color 1s ease; /* Smooth transition over 0.5 seconds */
+}
+
+body:hover {
+    background-color: #837ce8;
+}
+
+.add {
+    padding: 250px; /* Keep the padding the same */
+    margin-left: 350px; /* Keep the margin the same */
+   
+}
+#border1{
+
+    border: 4px solid red; /* Adjust the border thickness */
+    border-radius: 20px; /* Adjust the border radius if needed */
+     /* Ensure the border wraps around the content */
+      text-align: center;
+    height: 300px;
+    width: 500px;
+
+    
+    
+}
+
+.all{
+    margin-top: -90px;
+    margin-left: -100px;
+}
